@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thegreekman2 or George Mastoras!
 - 👀 I’m interested in software engineering, video game design and most topics computer engineering related!
-- 🌱 I’m currently learning about electric cars and reverse engineering...
+- 🌱 I’m currently learning about game design...
 - 📫 How to reach me ... email at george.mastoras@yahoo.com or call at 443-814-6333
 
 <!---
